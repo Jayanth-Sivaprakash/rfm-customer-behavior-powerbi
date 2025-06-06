@@ -49,6 +49,6 @@ Adventure Works, a leading bicycle manufacturer, needed a robust, data-driven ap
 
 ---
 
-**Contact:** your.email@example.com
+**Contact:** jayanthsivaprakash12@gmail.com
 
 Thank you for reviewing this project. I welcome any questions or collaboration opportunities.
